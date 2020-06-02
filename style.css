@@ -1,0 +1,207 @@
+.navbar
+{
+    background-color: grey !important;
+}
+
+.nav-link
+{
+    color: white !important;
+    font: 1em sans-serif;
+    font-weight: bolder;
+}
+.btn
+{
+    background-color: royalblue;
+    border-radius: 5px;
+}
+
+.center
+{
+    text-align: center;
+    color: royalblue;
+    padding-top: 100px;
+    text-shadow: 2px 2px 2px black;
+
+   
+}
+
+
+
+.record
+{
+    margin-top: 100px;
+  background-color:rgb(231, 231, 231);
+  text-align: justify;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+
+  
+}
+
+.mmain
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+}
+
+.one
+{
+ padding-left: 20px;  
+ width: 40%;
+ 
+}
+.two
+{
+    padding-left: 20px;   
+    width: 40%;
+    text-align: justify;
+
+}
+
+#i
+{
+    text-indent: 100px;
+}
+
+.add
+{
+    background-color: white !important;
+    color: #000;
+    text-align: center;
+}
+
+.a{
+    width: 20%;
+    padding: 2px;
+}
+
+
+
+
+.main
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: gray;
+    
+}
+
+  .three
+{
+   width: 400px;
+   text-align: center;
+   padding-top: 15px;
+}
+
+.onee
+{
+    width: 200px;
+    font-size: 20PX;
+    color: WHITE;
+    padding-top: 10PX;
+}
+
+
+.in
+{
+    color: whitesmoke;
+    text-align: left;
+    line-height: 30px;
+    padding-bottom: 50px;
+}
+
+
+.END
+{
+    background-color: royalblue;
+    color: WHITE;
+    padding: 8PX;
+    text-indent: 80PX;
+}
+
+.Flex
+{
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.border
+{
+    text-align: center;
+    border: 2px solid red;
+
+    border-radius: 12px ;
+    
+}
+
+
+
+
+
+
+
+.centera
+{
+    text-align: center;
+    font-style: oblique;
+    font-size: 20px;
+    color: white;
+}
+
+.btn{
+    border-radius: 5px !important;
+}
+
+#b
+{
+    border-radius: 10px;
+}
+.black
+{
+    background-color: rgba(34, 33, 33, 0.836);
+}
+
+
+
+.head
+{
+
+    text-align: center;
+  
+    text-transform: uppercase;
+
+}
+
+.centerS
+{
+
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    text-transform: capitalize;
+}
+
+.light
+{
+    background-color: rgba(214, 210, 210, 0.226);
+    ;
+}
+
+
+
+#ai
+{
+    width: 50%;
+    align-items: center;
+}
